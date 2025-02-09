@@ -36,7 +36,7 @@ layers:
   - {t: '$$mdi:keyboard-esc$$', h: '$$mdi:apple-keyboard-shift$$'}
   - {t: '$$mdi:keyboard-space$$', h: '$$mdi:apple-keyboard-command$$'}
   - {t: Alt+@, h: '$$mdi:apple-keyboard-control$$'}
-  - {t: 'Gui+$$mdi:backspace$$', h: 'Gui+$$mdi:apple-keyboard-shift$$'}
+  - {t: '$$mdi:backspace$$', h: '$$mdi:apple-keyboard-command$$'}
   - {t: '$$mdi:keyboard-return$$', h: 'Gui+$$mdi:apple-keyboard-command$$'}
   - {t: '$$mdi:keyboard-return$$', h: NUM}
   NUM:
